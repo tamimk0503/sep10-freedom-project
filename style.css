@@ -29,3 +29,19 @@ body {
     text-align: center;
 
 }
+
+
+.images{
+    width:540px;
+    height: auto;
+    margin-top: 5%;
+
+}
+
+#dice{
+    width: 500px;
+    height: auto;
+
+}
+
+
